@@ -1,11 +1,12 @@
-/*	Author: phuan033
- *  Partner(s) Name: Karen Gonzalez
+/* author: phuan033
+ * partner(s) Name: Karen Gonzalez
  *	Lab Section:
  *	Assignment: Lab #  Exercise #
  *	Exercise Description: [optional - include for your own benefit]
  *
  *	I acknowledge all content contained herein, excluding template or example
  *	code, is my own original work.
+ *	   
  */
 #include <avr/io.h>
 #ifdef _SIMULATE_
